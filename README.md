@@ -1,6 +1,6 @@
 # AWS Mobile SDK for macOS
 
-The `aws-sdk-macos` branch of this fork is a port of version 2.9.1 of the AWS Mobile SDK for iOS to macOS. The port is only missing `AWSLex`, `AWSPinpoint`, and the `Cognito Auth` frameworks. These frameworks are closly tied to iOS and UIKit. Considerable work would need to go into them to make them work. Once Apple supports UIKit on macOS (sometime this year we hope), this should be much easier.
+The `aws-sdk-macos` branch of this fork is a port of version 2.9.6 of the AWS Mobile SDK for iOS to macOS. The port is only missing `AWSLex`, `AWSPinpoint`, and the `Cognito Auth` frameworks. These frameworks are closly tied to iOS and UIKit. Considerable work would need to go into them to make them work. Once Apple supports UIKit on macOS (sometime this year we hope), this should be much easier.
 
 To use the port in your macOS project:
 1. First clone or download this project to your Mac. 
